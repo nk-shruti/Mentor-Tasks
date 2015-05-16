@@ -1,0 +1,62 @@
+1. Web Development - Web development is a broad term for the work involved in developing a web site for the Internet or an intranet.
+
+2. Browser - is a software application used for retrieving, presenting and traversing information resources on the world wide web.
+
+3. Working of browsers - They respond to the user’s request. The take in the request, convert it to optical signals, pass it on to the server, and displays the response after converting it back it from optical signals. 
+
+4. Server - A server is a running instance of an application (software) capable of accepting requests from the client and giving responses accordingly. Server scan run on any computer including dedicated computers, which individually are also often referred to as "the server". 
+
+
+5. Working of servers - They store all the information relevant to the particular website and respond to the user’s request.
+
+6. Role of CPU in running browser engines - 
+
+7.www - world wide web - Interconnection of internet networks
+
+8. HTML - HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. It is written in the form of HTML elements consisting of tags enclosed in angle brackets (like <html> ).
+
+9. CSS - Cascading Style Sheets is a style sheet language used for describing the look and formatting of a document written in a markup language.
+10. JAVASCRIPT 	JavaScript is the programming language of HTML and the Web.
+
+11. domain -A domain name is an identification string that defines a realm of administrative autonomy, authority or control within the internet.
+
+12. Internet -The Internet is a global system of interconnected computer networks that use the standard IP suite(TCP/IP) to link several billion devices worldwide.
+
+13.Internet Pack -Internet Pack provides a range of ready-to-use client and server implementations for common network protocols like HTTP, FTP or SMTP, while at the same time providing easily extendable base classes that allow developers to implement their own (be it custom or standard) protocols, as needed.
+
+14. Web -a complex system of interconnected elements.
+
+15. URL - A URL is one type of Uniform Resource Identifier the generic term for all types of names and addresses that refer to objects on the World Wide Web. The term "Web address" is a synonym for a URL that uses the HTTP / HTTPS protocol.
+
+
+16- URI - 	In computing, a uniform resource identifier is a string of characters used to identify a name of a resource. Such identification enables interaction with representations of the resource over a network, typically the World Wide Web, using specific protocols.
+
+
+17. What happens when you type into a browser’s address bar? 
+steps:
+	1.	browser checks cache; if requested object is in cache and is fresh, skip to #9
+	2.	browser asks OS for server's IP address
+	3.	OS makes a DNS lookup and replies the IP address to the browser
+	4.	browser opens a TCP connection to server (this step is much more complex with HTTPS)
+	5.	browser sends the HTTP request through TCP connection
+	6.	browser receives HTTP response and may close the TCP connection, or reuse it for another request
+	7.	browser checks if the response is a redirect (3xx result status codes), authorization request (401), error (4xx and 5xx), etc.; these are handled differently from normal responses (2xx)
+	8.	if cacheable, response is stored in cache
+	9.	browser decodes response (e.g. if it's gzipped)
+	10.	browser determines what to do with response (e.g. is it a HTML page, is it an image, is it a sound clip?)
+	11.	browser renders response, or offers a download dialog for unrecognized types
+
+
+18. WiFi - a facility allowing computers, smartphones, or other devices to connect to the Internet or communicate with one another wirelessly within a particular area.   19 - https:// - Https, for secure http, is used instead of http to do two things: confirm the identity of the site you're connecting to and keep your communications with that site secure by encrypting it all.
+If something is wrong, the browser will often display a warning, but in some cases, it will do nothing more than turn the https indicator red or put a line through it.
+
+20. HTTPS -Hyper Text Transfer Protocol Secure  is the secure version of HTTP, the protocol over which data is sent between your browser and the website that you are connected to. The 'S' at the end of HTTPS stands for 'Secure'. It means all communications between your browser and the website are encrypted.
+
+
+FTP	-The File Transfer Protocol is a standard network protocol used to transfer computer files from one host to another host over a TCP-based network, such as the Internet. FTP is built on a client-server architecture and uses separate control and data connections between the client and the server.
+
+
+SSL - Secure Sockets Layer is the standard security technology for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browsers remain private and integral.
+
+
+TSL -Transport Layer Security is a protocol that ensures privacy between communicating applications and their users on the Internet. When a server and client communicate, TLS ensures that no third party may eavesdrop or tamper with any message. TLS is the successor to the Secure Sockets Layer (SSL).

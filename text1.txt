@@ -1,1 +1,44 @@
-This is a test line
+1. Web Development - Creating web pages or rectifying errors on an existing web page or enhancing it’s features.
+
+2. Browser - It connects the user to the server and helps us surf web pages.
+
+3. Working of browsers - They respond to the user’s request. The take in the request, convert it to optical signals, pass it on to the server, and displays the response after converting it back it from optical signals. 
+
+4. Server - they store all the information, files and programs that are relevant to the particular website
+
+5. Working of servers - They store all the information relevant to the particular website and respond to the user’s request.
+
+6. Role of CPU in running browser engines - Processing of all the requests,  storing of data, etc.
+
+7.www - world wide web - Interconnection of internet networks
+
+8. HTML - hyper text mark up language that is used to manipulate the text on the web pages.
+
+9. CSS - It is a language used to design the web pages (front end)
+
+10. JAVASCRIPT - It is a language used to design the web pages (front end)
+
+11. domain - It has something to do with the url, refers to the particular web page you are on
+
+.12. Internet - worldwide connection of computer networks
+
+13.Internet Pack - The service provided by various service providers to establish a connection between the ISP and the user
+
+14. Web - interconnection of several computers
+
+15. URL - Universal resource locator - this acts like an anchor to a webpage
+
+16- URI - Unviersal resource identifier - It helps to identify domain names
+
+17. What happens when you type into a browser’s address bar?  
+The browser sends the address to the server and the server responds to the request 
+
+18. WiFi - Wireless Fidelity - Enables wireless internet connection over a certain range. 
+
+20. HTTPS - Hyper text transfer protocol - The set of rules that have to followed while transferring data between server and client. 
+
+FTP - File transfer protocol - Rules to be followed while transferring files between two computer systems.
+
+SSL - I don’t know
+
+TSL - I don’t know
